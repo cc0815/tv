@@ -1,9 +1,9 @@
 {
 // spider
-"spider":"https://gitea.com/Sherlito/TVBox716/raw/commit/240f105554c0b1e430c187cbb8717ab44bd5c57a/TVBox/qj0715.jar",
+"spider":"https://wp.wangshi520.com/down.php/982b88f1556fe0698477711b64319287.jar",
 
 // 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vU2hlcmxpdG8vVFZCb3g3MTYvcmF3L2NvbW1pdC9hNGNlZWU2ZmMwNmU5YTJhOWQyNTNhN2QwZDU4MWQ0ZWUzNmU4Y2U0L1RWQm94L3R2L2JjLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="]}]}],
 
 "sites":[
     {"key":"小苹果","name":"🐞小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
